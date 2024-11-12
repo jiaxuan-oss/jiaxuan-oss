@@ -42,4 +42,8 @@
  
 <br/>
 <hr/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&size=27&pause=1000&color=138EF7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+%F0%9F%91%8B;Shoot+me+a+message+on+Linkedin" alt="Typing SVG" /></a>
+
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&size=29&pause=1000&color=138EF7&center=true&vCenter=true&width=435&lines=Thanks+For+Visiting+%F0%9F%91%8B;Shoot+me+a+message+on+Linkedin" alt="Typing SVG" /></a>
+
+</h1>
