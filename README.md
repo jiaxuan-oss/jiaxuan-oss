@@ -26,7 +26,14 @@
   </a>
 </div>
 
+
  <hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jiaxuan-oss/jiaxuan-oss/output/github-contribution-grid-snake.svg" />
+  
+  <br/>
+</div>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -34,16 +41,10 @@
     <img src="https://skillicons.dev/icons?i=python,javascript,java,typescript,haskell,linux,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,mongodb,c,java,mysql" /><br>
 </div>
-
  
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jiaxuan-oss/jiaxuan-oss/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Thanks+for+visiting+%F0%9F%91%8B;Shoot+me+a+message+on+Linkedin" alt="Typing SVG" /></a>
+
 
