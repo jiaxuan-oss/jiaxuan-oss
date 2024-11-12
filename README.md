@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jiaxuan-oss.jiaxuan-oss" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Sour+Gummy&size=17&color=1140F7&background=1BFF3800&center=true&vCenter=true&lines=Hi+I'm+Jia+Xuan+%F0%9F%98%8E;Welcome+To+My+GitHub"/>
@@ -31,7 +31,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,java,typescript,haskell,android studio,linux,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,typescript,haskell,linux,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,mongodb,c,java,mysql" /><br>
 </div>
  
