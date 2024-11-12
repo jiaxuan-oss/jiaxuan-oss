@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jiaxuan-oss.jiaxuan-oss" />
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&size=17&pause=1000&color=1140F7&background=1BFF3800&center=true&vCenter=true&width=435&lines=Hi+I'm+Jia+Xuan+%F0%9F%98%8E;Welcome+To+My+GitHub" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&size=34&pause=1000&color=138EF7&background=1BFF3800&center=true&vCenter=true&width=435&lines=Hi+I'm+Jia+Xuan+%F0%9F%98%8E;Welcome+To+My+GitHub" alt="Typing SVG" /></a>
 </h1>
 
 <div align="center">
@@ -34,4 +34,16 @@
     <img src="https://skillicons.dev/icons?i=python,javascript,java,typescript,haskell,linux,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,mongodb,c,java,mysql" /><br>
 </div>
+
  
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jiaxuan-oss/jiaxuan-oss/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
