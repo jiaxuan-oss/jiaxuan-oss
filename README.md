@@ -6,8 +6,6 @@
 
 <div align="center">
  
- 🔭 I’m currently enrolled in **Computer Science** at Monash University
-
 💬 Ask me about **Suggestion, Monash Things, What am i doing ... or anything [here](https://github.com/jiaxuan-oss/jiaxuan-oss/issues)**
 
 ⚡ Fun fact **I am bad at designing poster**
