@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jiaxuan-oss.jiaxuan-oss" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Sour+Gummy&size=17&color=1140F7&background=1BFF3800&center=true&vCenter=true&lines=Hi+I'm+Jia+Xuan+%F0%9F%98%8E;Welcome+To+My+GitHub"/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sour+Gummy&size=17&pause=1000&color=1140F7&background=1BFF3800&center=true&vCenter=true&width=435&lines=Hi+I'm+Jia+Xuan+%F0%9F%98%8E;Welcome+To+My+GitHub" alt="Typing SVG" /></a>
 </h1>
 
 <div align="center">
